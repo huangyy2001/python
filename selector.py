@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 28 14:54:07 2020
-
-@author: A109221063
+@author: huangyy
 """
 
 choiceMenu="1:BMI\n2:萬花尺\n-->"
@@ -90,7 +88,7 @@ elif choice==2:
     turtle.goto(-50,-300)
     turtle.pendown()
     turtle.pencolor("white")
-    turtle.write("CT2020F_Ex1Q3\nA109221063_黃雅宜",font=16)   
+    turtle.write("huangyy2001",font=16)   
     turtle.done() 
 else:
     print("請輸入1或2")
